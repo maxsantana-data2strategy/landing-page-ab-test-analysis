@@ -12,10 +12,6 @@ Tests that would strengthen the analysis but were **not** run are stated explici
 
 [![Download Infographic PDF](https://img.shields.io/badge/📥_Download_Infographic_PDF-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/maxsantana-data2strategy/landing-page-ab-test-analysis/main/assets/Infographic_LandingAB_EN.pdf)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/maxsantana-data2strategy/landing-page-ab-test-analysis/main/assets/Infographic_LandingAB_EN.jpg" alt="One-page infographic: business question, methodology, key finding in Context to Finding to Implication format, visualizations, and main findings table" width="780">
-</p>
-
 ---
 
 ## 🎯 Problem Statement
